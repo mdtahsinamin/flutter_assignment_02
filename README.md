@@ -4,4 +4,5 @@ A new Flutter project.
 
 ## Getting Started
 
-![Shot]("https://res.cloudinary.com/dftjtnazj/image/upload/v1686593238/hqu60z6k5vr6lbnyy6gp.png","ScreenShot")
+![Shot](https://res.cloudinary.com/dftjtnazj/image/upload/v1687188599/dcjhgxitgwzfqwlgmraf.png,"ScreenShot")
+![Shot2](https://res.cloudinary.com/dftjtnazj/image/upload/v1687188599/hbdyqs8czfjr7ooar61f.png,"ScreenShot")
